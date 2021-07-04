@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
  */
 
 /**
- *
+ *@version 1.0
  * @author sorth_
  */
 public class Inicio {
