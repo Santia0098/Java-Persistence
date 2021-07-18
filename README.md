@@ -16,6 +16,7 @@ In this repository we have two projects, the first is a *Git* project and the se
 
 ### Run Project
 Is a local project, we ->
+
 	- Need to start our local database.
 	- Run the local project too. I am using Eclipse IDE to do this.
 	- The last step is check the connection and review all project options.
