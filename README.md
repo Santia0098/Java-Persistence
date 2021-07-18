@@ -1,5 +1,10 @@
 # **Java Persistence Course**
+ This project is an exercise to do CRUD in some information stored in PHP MyAdmin.
  
+ C .- Create
+ R .- Read
+ U .- Update
+ D .- Delete
 
 ## Overview
 
@@ -9,6 +14,11 @@ In this repository we have two projects, the first is a *Git* project and the se
 
 ## Getting Started
 
+### Run Project
+Is a local project, we ->
+	- Need to start our local database.
+	- Run the local project too. I am using Eclipse IDE to do this.
+	- The last step is check the connection and review all project options.
 ### Dependecies
 
 We use a Java Maven Project to do the projects and we use three Dependencies in each project.
@@ -17,8 +27,11 @@ We use a Java Maven Project to do the projects and we use three Dependencies in 
 - OkHTTP (Gatos_app)
 	 - **Java SDK 8**
 
-## Author
-Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
+## Authors and acknowledgment
+
+Thanks to platzi and Santiago Bernal for this awesome course. [Java Persistence](https://platzi.com/clases/java-persistencia/ "Java Persistence")
+
+- Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
 
 ## Version
 
