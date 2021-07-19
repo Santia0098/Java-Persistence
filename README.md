@@ -4,10 +4,10 @@ This project works with Data Persistence using a database to store the informati
 ## Description
  This project is an exercise to do CRUD in some information stored in PHP MyAdmin.
  
- C .- Create
- R .- Read
- U .- Update
- D .- Delete
+ - C .- Create
+ - R .- Read
+ - U .- Update
+ - D .- Delete
 
 ## Overview
 
