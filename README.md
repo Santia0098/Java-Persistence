@@ -1,4 +1,7 @@
 # **Java Persistence Course**
+This project works with Data Persistence using a database to store the information.
+
+## Description
  This project is an exercise to do CRUD in some information stored in PHP MyAdmin.
  
  C .- Create
